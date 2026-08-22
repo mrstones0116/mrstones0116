@@ -46,5 +46,3 @@ Passionate about cross‑industry AI transformation — Construction, Finance, E
 Leading 3D reconstruction pipelines and next‑gen Jarvis Eagle Eye product.
 
 ---
-
-⚡ Fun fact: I switched from foreign language school to AI — and now I build systems that understand both human and machine languages.
